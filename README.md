@@ -8,7 +8,6 @@ AI_ Single Layer Perceptron :
 - matplotlib
 
 임의 난수로 구성된 데이터셋을 학습하여
-
 판정 경계를 형성하는 인공지능
 
 #
@@ -27,7 +26,7 @@ AI_ Multi Layer Perceptron_animal :
 - PIL
 
 개&고양이 이미지를 학습하여 분류하는 인공지능
-
-train.csv 파일을 학습 데이터로 사용
+학습 데이터 : train.csv
+테스트 데이터 : test.csv
 
 #
